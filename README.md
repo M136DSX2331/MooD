@@ -19,7 +19,7 @@ giving advice to the other person if they are in a bad mood.
 * Save and export model with h5 extension
 * Because of limitation upload to Github here is the Model of our Project https://drive.google.com/file/d/1cvYWr2jtcLIHgDAgOS6X7qtwG-Rh0Un4/view?usp=sharing
 
-## ☁️ Cloud Computing (Google Cloud Storage, AI Platform, Flask Web Service)
+## ☁️ Cloud Computing
 
 * Build an API with FastAPI then implement an API endpoint that will receive requests and provide responses based on a machine learning model.
 * Configure and deploy Machine Learning models with Cloud Run: Prepare and format machine learning models for deployment, Use Cloud Run to deploy models as serverless services accessed via API.
